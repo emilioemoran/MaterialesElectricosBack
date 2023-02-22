@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "ullnh2ineyx3pwcg",
+    "password": "meuy365uCnUrwSQ2knan",
+    "database": "bipsar2vnrakzoyamfn6",
+    "host": "bipsar2vnrakzoyamfn6-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "test": {
+    "username": "ullnh2ineyx3pwcg",
+    "password": "meuy365uCnUrwSQ2knan",
+    "database": "bipsar2vnrakzoyamfn6",
+    "host": "bipsar2vnrakzoyamfn6-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "production": {
+    "username": "ullnh2ineyx3pwcg",
+    "password": "meuy365uCnUrwSQ2knan",
+    "database": "bipsar2vnrakzoyamfn6",
+    "host": "bipsar2vnrakzoyamfn6-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
